@@ -1,0 +1,14 @@
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\bin\Debug\net8.0\T1P3.exe
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\bin\Debug\net8.0\T1P3.deps.json
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\bin\Debug\net8.0\T1P3.runtimeconfig.json
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\bin\Debug\net8.0\T1P3.dll
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\bin\Debug\net8.0\T1P3.pdb
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.dll
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\refint\T1P3.dll
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.pdb
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\T1P3.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\estudio\C#\T1P3\T1P3\obj\Debug\net8.0\ref\T1P3.dll
